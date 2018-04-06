@@ -17,7 +17,7 @@ public class Ordenacao {
 		
 		String nome = "C:/Users/Departamento de TI/Desktop/English.txt";
 
-		System.out.printf("\nConteúdo do arquivo texto:\n");
+		System.out.printf("\nConteúdo  a do arquivo texto:\n");
 		try {
 			FileReader arq = new FileReader(nome);
 			BufferedReader lerArq = new BufferedReader(arq);
